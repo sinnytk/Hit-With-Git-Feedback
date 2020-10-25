@@ -1,0 +1,9 @@
+{
+  "github_id": "talha7t",
+  "name": "Talha Jutt",
+  "institution": "University of Education",
+  "dsc_chapter": "University of Education",
+  "event_review": "It was an awesome event. I learnt a lot about git and open source contribution.",
+  "answer1": "Forking is just containing a separate copy of the repository and there is no command involved",
+  "answer2": "Cloning is done through the command 'git clone' and it is a process of receiving all the code files to the local machine"
+}
