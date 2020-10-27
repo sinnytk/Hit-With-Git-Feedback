@@ -1,0 +1,10 @@
+{
+    "github_id": "EngZeehshanAli",
+    "name": "Zeeshan Ali",
+    "institution": "Virtual University of Paskistan",
+    "dsc_chapter": "DSCVU",
+    "event_review": "That was awesome. It was a great opportunity for me to be there and learned a lot.",
+    "answer1": "Forking is just containing a separate copy of the repository and there is no command involved. Cloning is done through the command 'git clone' and it is a process of receiving all the code files to the local machine.",
+    "answer2": "A pull request is you requesting the target repository to please grab your changes. A ush would be the target repository requesting you to push your changes."
+  }
+  
